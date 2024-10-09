@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Active_Users\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3B6676-B13A-4D8F-BA55-5117EE4D70F8}|SampleActiveUsers\\SampleActiveUsers.csproj|c:\\users\\administrator\\active_users\\sampleactiveusers\\newtrsymodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3B6676-B13A-4D8F-BA55-5117EE4D70F8}|SampleActiveUsers\\SampleActiveUsers.csproj|solutionrelative:sampleactiveusers\\newtrsymodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Active_Users\\SampleActiveUsers\\NewtrsyModel\\User.cs",
+              "RelativeDocumentMoniker": "SampleActiveUsers\\NewtrsyModel\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Active_Users\\SampleActiveUsers\\NewtrsyModel\\User.cs",
+              "RelativeToolTip": "SampleActiveUsers\\NewtrsyModel\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:33:56.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

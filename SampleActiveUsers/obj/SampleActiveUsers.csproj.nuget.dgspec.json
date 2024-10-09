@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\SampleActiveUsers\\SampleActiveUsers\\SampleActiveUsers.csproj": {}
+    "C:\\Users\\Administrator\\Active_Users\\SampleActiveUsers\\SampleActiveUsers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\SampleActiveUsers\\SampleActiveUsers\\SampleActiveUsers.csproj": {
+    "C:\\Users\\Administrator\\Active_Users\\SampleActiveUsers\\SampleActiveUsers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\SampleActiveUsers\\SampleActiveUsers\\SampleActiveUsers.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Active_Users\\SampleActiveUsers\\SampleActiveUsers.csproj",
         "projectName": "SampleActiveUsers",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\SampleActiveUsers\\SampleActiveUsers\\SampleActiveUsers.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Active_Users\\SampleActiveUsers\\SampleActiveUsers.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\SampleActiveUsers\\SampleActiveUsers\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Active_Users\\SampleActiveUsers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
